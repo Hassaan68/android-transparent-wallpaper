@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#56b4d3</color>
+    <color name="colorPrimary">#56b4d3</color>
+    <color name="colorPrimaryDark">#348f50</color>
+
+
+    <color name="backoverlay1">#348f50</color>
+    <color name="backoverlay2">#348f50</color>
+    <color name="backoverlay3">#56b4d3</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="btn1color1">#dd5e89</color>
+    <color name="btn1color2">#dd5e89</color>
+    <color name="btn1color3">#f7bb97</color>
+    <color name="btn2color1">#2bc0e4</color>
+    <color name="btn2color2">#2bc0e4</color>
+    <color name="btn2color3">#eaecc6</color>
+    <color name="btn3color1">#3d7eaa</color>
+    <color name="btn3color2">#3d7eaa</color>
+    <color name="btn3color3">#ffe47a</color>
+    <color name="btn4color1">#f0c27b</color>
+    <color name="btn4color2">#4b1248</color>
+    <color name="btn4color3">#f0c27b</color>
+    <color name="btnback">#3f426f</color>
+    <color name="btncolor1">#67797b</color>
+    <color name="btncolor2">#b6c4c7</color>
+    <color name="btncolor3">#254343</color>
+    <color name="greyback">#e3e3e3</color>
+    <color name="overlay1">#00aeb3</color>
+    <color name="overlay2">#ee62a2</color>
+    <color name="overlay3">#00a0dc</color>
+    <color name="overlay_dark_50">#80000000</color>
+    <color name="overlay_dark_60">#99000000</color>
+    <color name="startback">#2f2f55</color>
+    <color name="startback1">#fdd77a</color>
+    <color name="white">#fff</color>
+
+</resources>
